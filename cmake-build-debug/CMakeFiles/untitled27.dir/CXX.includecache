@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HP/CLionProjects/untitled27/AgricultureTools.cpp
+AgricultureTools.h
+C:/Users/HP/CLionProjects/untitled27/AgricultureTools.h
+
+C:/Users/HP/CLionProjects/untitled27/AgricultureTools.h
+
+C:/Users/HP/CLionProjects/untitled27/Farmer.cpp
+Farmer.h
+C:/Users/HP/CLionProjects/untitled27/Farmer.h
+
+C:/Users/HP/CLionProjects/untitled27/Farmer.h
+AgricultureTools.h
+C:/Users/HP/CLionProjects/untitled27/AgricultureTools.h
+
+C:/Users/HP/CLionProjects/untitled27/main.cpp
+iostream
+-
+Farmer.h
+C:/Users/HP/CLionProjects/untitled27/Farmer.h
+AgricultureTools.h
+C:/Users/HP/CLionProjects/untitled27/AgricultureTools.h
+
